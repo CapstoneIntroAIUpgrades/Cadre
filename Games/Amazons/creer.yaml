@@ -1,0 +1,13 @@
+_parentDatas:
+- superGrid
+
+Game:
+  name: Amazons
+  description: Take turns moving your Amazons and blocking tiles.
+
+Player:
+  attributes:
+    piece:
+      type: const string = "Q" | "q"
+      description: The color (side) of this player. Either 'Q' or 'q',
+        with the 'Q' player having the first move.

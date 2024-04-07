@@ -1,0 +1,14 @@
+_parentDatas:
+- superGrid
+
+Game:
+  name: UltimateTicTacToe
+  description: Tic Tac Toe but on nine boards.
+
+Player:
+  attributes:
+    piece:
+      type: const string = "x" | "o"
+      description: The color (side) of this player. Either 'x' or 'o',
+        with the 'X' player having the first move.
+

@@ -10,4 +10,4 @@ Player:
     color:
       type: const string = "r" | "y"
       description: The color (side) of this player. Either 'red' or 'yellow',
-        with the 'yellow' player having the first move.
+        with the 'red' player having the first move.

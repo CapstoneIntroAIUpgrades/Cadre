@@ -1,36 +1,36 @@
 [submodule "Cerveau"]
 	path = Cerveau
-	url = https://github.com/CapstoneIntroAIUpgrades/Cerveau.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Cerveau.git
 [submodule "Creer"]
 	path = Creer
-	url = https://github.com/CapstoneIntroAIUpgrades/Creer.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Creer.git
 [submodule "Viseur"]
 	path = Viseur
-	url = https://github.com/CapstoneIntroAIUpgrades/Viseur.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Viseur.git
 [submodule "Joueur.cpp"]
 	path = Joueur.cpp
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.cpp.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.cpp.git
 [submodule "Joueur.cs"]
 	path = Joueur.cs
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.cs.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.cs.git
 [submodule "Joueur.go"]
 	path = Joueur.go
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.go.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.go.git
 [submodule "Joueur.java"]
 	path = Joueur.java
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.java.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.java.git
 [submodule "Joueur.js"]
 	path = Joueur.js
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.js.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.js.git
 [submodule "Joueur.lua"]
 	path = Joueur.lua
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.lua.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.lua.git
 [submodule "Joueur.py"]
 	path = Joueur.py
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.py.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.py.git
 [submodule "Joueur.ts"]
 	path = Joueur.ts
-	url = https://github.com/CapstoneIntroAIUpgrades/Joueur.ts.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Joueur.ts.git
 [submodule "Website"]
 	path = Website
-	url = https://github.com/CapstoneIntroAIUpgrades/Cadre-Website.git
+	url = git@github.com:CapstoneIntroAIUpgrades/Cadre-Website.git

@@ -1,0 +1,13 @@
+_parentDatas:
+- superGrid
+
+Game:
+  name: ConnectFour
+  description: The traditional 6x7 board with pieces.
+
+Player:
+  attributes:
+    color:
+      type: const string = "r" | "y"
+      description: The color (side) of this player. Either 'red' or 'yellow',
+        with the 'red' player having the first move.

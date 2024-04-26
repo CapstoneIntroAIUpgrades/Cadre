@@ -15,4 +15,16 @@ for submodule in "${submodules[@]}"; do
     cd ..
 done
 
+echo "--> Joueur.py Demo <---"
+cd Joueur.py
+git checkout demo
+git pull
+cd ..
+
+echo "--> Cerveau Demo <---"
+cd Cerveau
+git checkout demo
+git pull
+cd ..
+
 echo ">> Cadre repos initialized, exiting <<"
